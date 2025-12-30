@@ -1,0 +1,163 @@
+# GitHub Pages Configuration for Shunya-0 Knowledge Base
+
+# Site settings
+title: "Brahmanagyan | ब्रह्मज्ञान"
+subtitle: "A Unified Framework Integrating Vedic Principles and Modern Physics"
+description: "Complete knowledge base documenting 50 Universal Principles, 52 anomalies explained, and the Vedic-Scientific unified framework."
+author: "Ranjeet (Shunya-0 Project)"
+email: ""
+baseurl: "/Bramhagyan" # Change if different
+url: "https://bramhagyan.github.io" # Your GitHub Pages URL
+
+# Repository
+repository: "ranjeet-sunya/Bramhagyan"
+github_username: "ranjeet-sunya"
+
+# Build settings
+theme: jekyll-theme-cayman
+# Alternative themes you can try:
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-architect
+# theme: jekyll-theme-time-machine
+
+# Markdown processing
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    default_lang: java
+
+# Plugins
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Relative links
+relative_links:
+  enabled: true
+  collections: true
+
+# Optional front matter
+optional_front_matter:
+  remove_originals: false
+
+# README index
+readme_index:
+  enabled: true
+  remove_originals: false
+  with_frontmatter: false
+
+# Titles from headings
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+
+# Include/Exclude files
+include:
+  - README.md
+  - LICENSE.md
+  - _config.yml
+  - "*/README.md"
+  - "**/*.md"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .gitignore
+
+# Collections (for organizing content)
+collections_dir: .
+collections:
+  foundations:
+    output: true
+    permalink: /foundations/:name/
+  architecture:
+    output: true
+    permalink: /architecture/:name/
+  validation:
+    output: true
+    permalink: /validation/:name/
+  entities:
+    output: true
+    permalink: /entities/:name/
+  systems:
+    output: true
+    permalink: /systems/:name/
+  transition:
+    output: true
+    permalink: /transition/:name/
+  tools:
+    output: true
+    permalink: /tools/:name/
+  future:
+    output: true
+    permalink: /future/:name/
+  revelations:
+    output: true
+    permalink: /revelations/:name/
+  dharm_youdh:
+    output: true
+    permalink: /dharm_youdh/:name/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      author: "Shunya-0 Project"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      toc: true
+
+# SEO
+lang: en_US
+logo: /assets/images/shunya-logo.png # Add if you create a logo
+
+# Social
+social:
+  name: Shunya-0 Project
+  links:
+    - https://github.com/ranjeet-sunya/Bramhagyan
+
+# Analytics (optional - add your tracking ID if needed)
+# google_analytics: UA-XXXXXXXX-X
+
+# License
+license: CC BY-SA 4.0
+license_url: https://creativecommons.org/licenses/by-sa/4.0/
+
+# Publishing date
+date: 2025-12-31
+
+# Additional metadata
+keywords: 
+  - Vedic Science
+  - Universal Principles
+  - Fractal Physics
+  - Consciousness
+  - Quantum Mechanics
+  - Sandhya
+  - Dwapara Yuga
+  - Open Source Knowledge
+
+# Custom variables
+vedic_date: "Vikram Samvat 2082, Pausha Krishna Paksha"
+kali_yuga_end: "2023 CE"
+sandhya_period: "2020-2028 CE"
+current_year: "Year 6 of 8"
+

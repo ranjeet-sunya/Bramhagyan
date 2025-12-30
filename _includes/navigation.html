@@ -1,0 +1,76 @@
+<nav class="main-navigation">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}/" class="nav-brand">🌀 Shunya-0</a>
+    
+    <div class="nav-links">
+      <a href="{{ site.baseurl }}/01_foundations/">Foundations</a>
+      <a href="{{ site.baseurl }}/02_architecture/">Architecture</a>
+      <a href="{{ site.baseurl }}/03_validation/">Validation</a>
+      <a href="{{ site.baseurl }}/08_transition/">Transition</a>
+      <a href="{{ site.baseurl }}/dharm_youdh/">Dharm Youdh</a>
+      <a href="{{ site.baseurl }}/10_tools/">Tools</a>
+      <a href="https://github.com/ranjeet-sunya/Bramhagyan" target="_blank">GitHub</a>
+    </div>
+  </div>
+</nav>
+
+<style>
+.main-navigation {
+  background: linear-gradient(135deg, #ff6600 0%, #ff9933 100%);
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.nav-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.nav-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.nav-brand:hover {
+  color: #fff8dc;
+}
+
+.nav-links {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
+
+.nav-links a {
+  color: white;
+  text-decoration: none;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  transition: background 0.3s;
+}
+
+.nav-links a:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+@media (max-width: 768px) {
+  .nav-container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
+  .nav-links {
+    justify-content: center;
+    gap: 1rem;
+  }
+}
+</style>
+
