@@ -3,7 +3,7 @@
 ## Independent Framework Predicts Planetary Crisis Tipping Point Within 5-15 Years Unless Immediate Action Taken
 
 **FOR IMMEDIATE RELEASE**  
-**December 29, 2025**
+**December 31, 2025**
 
 ---
 
@@ -551,7 +551,7 @@ The ancient Rishis (seers) warned of this time: "Kali Yuga's end brings great ch
 ---
 
 **FOR IMMEDIATE RELEASE**  
-**December 29, 2025**  
+**December 31, 2025**  
 **Share freely — Planetary emergency**
 
 **#TandavaWarning #PralayaSymptoms #PlanetaryStemCells #DharmaRevival #ClimateEmergency #ConsciousnessShift #KaliDvaparaSandhya**

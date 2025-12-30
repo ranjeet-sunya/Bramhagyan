@@ -11,7 +11,7 @@
 
 **Previous:** `social_media_knowledge_war`  
 **Current:** `dharm_youdh` (धर्म-युद्ध)  
-**Date:** December 29, 2025
+**Date:** December 31, 2025
 
 ---
 

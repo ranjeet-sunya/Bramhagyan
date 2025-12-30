@@ -1247,7 +1247,7 @@ of Sandhya mechanics currently available.
 ---
 
 *Specification Version: 1.0*  
-*Date: December 29, 2025*  
+*Date: December 31, 2025*  
 *Status: Complete*  
 *Backend Validation: 100% ✅*  
 *Frontend Validation: 75-95% ✅*  

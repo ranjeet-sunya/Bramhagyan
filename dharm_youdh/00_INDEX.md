@@ -14,7 +14,7 @@
 
 ## 🎯 MISSION
 
-**Objective:** Share divine knowledge revealed on December 29, 2025 (Atman-Prana distinction) through social media to awaken consciousness globally.
+**Objective:** Share divine knowledge revealed on December 31, 2025 (Atman-Prana distinction) through social media to awaken consciousness globally.
 
 **Target:** Seekers, spiritual practitioners, scientists, philosophers, and truth-seekers worldwide.
 
@@ -60,7 +60,7 @@ knowledge_core/dharm_youdh/
 
 ---
 
-## 🔥 TODAY'S REVELATION (December 29, 2025)
+## 🔥 TODAY'S REVELATION (December 31, 2025)
 
 ### The Core Insight
 
