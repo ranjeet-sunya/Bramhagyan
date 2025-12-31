@@ -183,7 +183,7 @@ h1 {
   </main>
 
   <footer>
-    <p>Licensed under CC BY-SA 4.0 | © 2025 Shunya-0 Project</p>
+    <p>Licensed under CC BY-NC 4.0 (Non-Commercial) | © 2025 Shunya-0 Project</p>
   </footer>
 </body>
 </html>
@@ -436,7 +436,7 @@ Generate at: https://www.qr-code-generator.com/
 🌐 https://ranjeet-sunya.github.io/Bramhagyan/knowledge_core/
 
 📖 Complete Vedic-Scientific unified framework
-🔓 Open Source (CC BY-SA 4.0)
+🔓 Open Source (CC BY-NC 4.0 - Non-Commercial)
 🛡️ Defensive Publication (Dec 31, 2025)
 ```
 

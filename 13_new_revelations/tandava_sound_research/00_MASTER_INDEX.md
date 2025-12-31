@@ -651,7 +651,7 @@ This research is part of **Project Shunya-0 (ब्रह्मज्ञान)*
 - Meditation experiences
 - Error corrections
 
-**License:** CC BY-SA 4.0 (Knowledge), Apache 2.0 (Code)
+**License:** CC BY-NC 4.0 (Knowledge - Non-Commercial), Apache 2.0 (Code)
 
 ---
 

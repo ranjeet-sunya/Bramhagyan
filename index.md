@@ -21,7 +21,7 @@ permalink: /
 
 ---
 
-[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)]()
 [![Published: Dec 31, 2025](https://img.shields.io/badge/Published-Dec%2031%202025-blue.svg)]()
 
@@ -365,10 +365,10 @@ Knowledge war resources
 ## 📜 License & Usage
 
 ### 📖 Documentation
-**License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)  
-**You can:** Use, share, modify, even commercially  
-**You must:** Give credit to Brahman, use same license  
-**You cannot:** Block others from using it
+**License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (Non-Commercial)  
+**You can:** Use, share, modify for non-commercial purposes  
+**You must:** Give credit to Brahman (ब्रह्मन्)  
+**You cannot:** Use commercially, sell, or monetize this knowledge
 
 ### 💻 Code
 **License:** [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)  
@@ -392,7 +392,7 @@ This knowledge belongs to **humanity**. To contribute:
 3. **Cite** Vedic sources when applicable
 4. **Validate** against Universal Laws
 5. **Submit** pull request
-6. **License** under CC BY-SA 4.0
+6. **License** under CC BY-NC 4.0 (Non-Commercial)
 
 **[Contribution Guide →](CONTRIBUTING.md)**
 

@@ -85,7 +85,7 @@ Background:#FFFFFF (White) / #FFF8DC (Cream)
 │  ┌───────────────────────────────────────────────────────────┐ │
 │  │ Footer: Quick Links | Status | Connect                   │ │
 │  │ विद्या दानं सर्व दानेभ्यः प्रधानम्                         │ │
-│  │ Licensed under CC BY-SA 4.0                               │ │
+│  │ Licensed under CC BY-NC 4.0 (Non-Commercial)              │ │
 │  │ ॐ शान्तिः शान्तिः शान्तिः                                  │ │
 │  └───────────────────────────────────────────────────────────┘ │
 │                                                                 │
