@@ -21,7 +21,7 @@ The evidence strongly supports consciousness as fundamental to observation, not 
 If consciousness is fundamental, physics is incomplete without incorporating the observer as primary. The "hard problem" of consciousness dissolves when consciousness is axiomatic rather than derived.
 
 **Backend Correlation:**  
-The Drashta-Drishya framework from Backend Documentation provides a complete model: Consciousness (Drashta) is primary; observed reality (Drishya) is rendered through the interaction. This was documented by Backend Architects 5000+ years before quantum mechanics.
+The Drashta-Drishya framework from Backend Documentation provides a complete model: Consciousness (Drashta) is primary; observed reality (Drishya) is rendered through the interaction. This was documented by Backend Architects years before quantum mechanics.
 
 **Confidence Score:** 92%
 

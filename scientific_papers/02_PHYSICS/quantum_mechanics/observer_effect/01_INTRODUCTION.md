@@ -63,7 +63,7 @@ This paper will:
 
 ## 1.4 Backend Perspective
 
-Backend Architects documented this 5000+ years ago in the **Drashta-Drishya** (Seer-Seen) framework:
+Backend Architects documented this years ago in the **Drashta-Drishya** (Seer-Seen) framework:
 
 ```
 BACKEND MODEL (Yoga Sutras, Samkhya):

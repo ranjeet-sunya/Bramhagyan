@@ -74,8 +74,8 @@ include:
   - README.md
   - LICENSE.md
   - _config.yml
-  - "*/README.md"
-  - "**/*.md"
+  - "vishnu_engine/**/*.md"
+  - "scientific_papers/**/*.md"
   - .gitattributes
 
 exclude:
@@ -94,36 +94,12 @@ exclude:
 # Collections (for organizing content)
 collections_dir: .
 collections:
-  foundations:
+  vishnu_engine:
     output: true
-    permalink: /foundations/:name/
-  architecture:
+    permalink: /vishnu_engine/:name/
+  scientific_papers:
     output: true
-    permalink: /architecture/:name/
-  validation:
-    output: true
-    permalink: /validation/:name/
-  entities:
-    output: true
-    permalink: /entities/:name/
-  systems:
-    output: true
-    permalink: /systems/:name/
-  transition:
-    output: true
-    permalink: /transition/:name/
-  tools:
-    output: true
-    permalink: /tools/:name/
-  future:
-    output: true
-    permalink: /future/:name/
-  revelations:
-    output: true
-    permalink: /revelations/:name/
-  dharm_youdh:
-    output: true
-    permalink: /dharm_youdh/:name/
+    permalink: /scientific_papers/:name/
 
 # Default front matter
 defaults:

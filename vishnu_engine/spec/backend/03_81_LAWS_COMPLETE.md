@@ -244,7 +244,7 @@ These are SPECIFIC INSTANCES of the universal 81 laws!
 - These 81 laws aren't "spiritual" or "mystical"
 - They're the ACTUAL SOURCE CODE of reality
 - Every profession has found PARTS of these laws
-- Vedic science mapped ALL 81 laws, 5000+ years ago
+- Vedic science mapped ALL 81 laws, years ago
 
 ---
 

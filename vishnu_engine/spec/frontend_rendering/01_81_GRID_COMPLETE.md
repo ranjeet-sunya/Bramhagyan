@@ -71,7 +71,7 @@ to render reality at human scale!
 
 **The Technical Reality:**
 - **81-Grid** = Optimal deep learning architecture discovered by universe
-- Like: Transformer architecture, but found in nature 5000+ years ago
+- Like: Transformer architecture, but found in nature years ago
 - Progressive layer expansion: Input(1) → Hidden₁(3) → Hidden₂(9) → Hidden₃(27) → Output(81)
 
 **Neural Network Analogy:**

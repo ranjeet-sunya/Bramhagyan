@@ -62,7 +62,7 @@
 ## 💡 The Key Insight
 
 **Elon Musk:** "Odds are billions to one we're NOT in a simulation"
-**Vedas (5000 years ago):** "All this is Maya"
+**Vedas:** "All this is Maya"
 
 ```
 SIMULATION THEORY        ↔        MAYA DOCTRINE

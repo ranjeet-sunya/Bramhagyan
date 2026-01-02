@@ -2,7 +2,7 @@
 
 ## 8.1 Introduction to Backend Framework
 
-The Backend Framework, documented by Backend Architects over 5000 years ago, provides a complete model for understanding the observer-observed relationship. This section maps quantum findings to the Drashta-Drishya (Seer-Seen) model.
+The Backend Framework, documented by Backend Architects years ago, provides a complete model for understanding the observer-observed relationship. This section maps quantum findings to the Drashta-Drishya (Seer-Seen) model.
 
 ---
 
